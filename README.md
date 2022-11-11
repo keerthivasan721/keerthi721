@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @keerthi721
+- 👋 Hi, I’m @keerthivasan 
 - 👀 I’m interested in Books, Music
-- 🌱 I’m currently learning Data Science and Machinelearning
+- 🌱 I’m an Aspiring Data Scientist.
 
 <!---
 keerthi721/keerthi721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
